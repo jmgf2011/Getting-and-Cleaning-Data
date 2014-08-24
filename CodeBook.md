@@ -117,61 +117,73 @@ time_body_linear_acceleration_jerk_signal_stdv_Z_axis
 
 time_body_angular_velocity_mean_X_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity mean in X axis
 
 time_body_angular_velocity_mean_Y_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity mean in Y axis
 
 time_body_angular_velocity_mean_Z_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity mean in Z axis
 
 time_body_angular_velocity_stdv_X_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity standard deviation in X axis
 
 time_body_angular_velocity_stdv_Y_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity standard deviation in Y axis
 
 time_body_angular_velocity_stdv_Z_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity standard deviation in Z axis
 
 time_body_angular_velocity_jerk_signal_mean_X_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity Jerk signal mean in X axis
 
 time_body_angular_velocity_jerk_signal_mean_Y_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity Jerk signal mean in Y axis
 
 time_body_angular_velocity_jerk_signal_mean_Z_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity Jerk signal mean in Z axis
 
 time_body_angular_velocity_jerk_signal_stdv_X_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity Jerk signal standard deviation in X axis
 
 time_body_angular_velocity_jerk_signal_stdv_Y_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity Jerk signal standard deviation in Y axis
 
 time_body_angular_velocity_jerk_signal_stdv_Z_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity Jerk signal standard deviation in Z axis
 
@@ -207,21 +219,25 @@ time_body_linear_acceleration_jerk_signal_magnitude_stdv
 
 time_body_angular_velocity_magnitude_mean
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity magnitude mean 
 
 time_body_angular_velocity_magnitude_stdv
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity magnitude standard deviation
 
 time_body_angular_velocity_jerk_signal_magnitude_mean
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity Jerk signal magnitude mean 
 
 time_body_angular_velocity_jerk_signal_magnitude_stdv
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (time domain) body angular velocity Jerk signal magnitude standard deviation
 
@@ -317,46 +333,55 @@ frequency_body_linear_acceleration_jerk_signal_mean_frequency_Z_axis
 
 frequency_body_angular_velocity_mean_X_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity mean in X axis
 
 frequency_body_angular_velocity_mean_Y_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity mean in Y axis
 
 frequency_body_angular_velocity_mean_Z_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity mean in Z axis
 
 frequency_body_angular_velocity_stdv_X_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity standard deviation in X axis
 
 frequency_body_angular_velocity_stdv_Y_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity standard deviation in Y axis
 
 frequency_body_angular_velocity_stdv_Z_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity standard deviation in Z axis
 
 frequency_body_angular_velocity_mean_frequency_X_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity mean frequency in X axis
 
 frequency_body_angular_velocity_mean_frequency_Y_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity mean frequency in Y axis
 
 frequency_body_angular_velocity_mean_frequency_Z_axis
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity mean frequency in Z axis
 
@@ -392,30 +417,36 @@ frequency_body_linear_acceleration_jerk_signal_magnitude_mean_frequency
 
 frequency_body_angular_velocity_magnitude_mean
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity magnitude mean 
 
 frequency_body_angular_velocity_magnitude_stdv
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity magnitude standard deviation
 
 frequency_body_angular_velocity_magnitude_mean_frequency
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity magnitude mean frequency
 
 frequency_body_angular_velocity_jerk_signal_magnitude_mean
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity Jerk signal magnitude mean 
 
 frequency_body_angular_velocity_jerk_signal_magnitude_stdv
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity Jerk signal magnitude standard deviation
 
 frequency_body_angular_velocity_jerk_signal_magnitude_mean_frequency
         Type        :   numeric
+        Unit        :   radians/second
         Range       :   [-1,1] Normalized data
         Description :   (frequency domain) body angular velocity Jerk signal magnitude mean frequency
