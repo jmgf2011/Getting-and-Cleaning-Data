@@ -1,5 +1,7 @@
 Codebook for 'tidy.data.txt' data set
 
+DATE : August 23, 2014
+
 NOTE : The variables field width were not defined to numeric variables. It is not applicable, regarding that their value range is well known and specified.
 
 Subject

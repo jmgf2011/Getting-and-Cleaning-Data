@@ -1,5 +1,6 @@
 Script : run_analysis.R
 Available : https://github.com/rodrigodmartins/Getting-and-Cleaning-Data/blob/master/tidy_data.txt
+Date : August 23, 2014
 
 1. HISTORY :
 
@@ -108,8 +109,6 @@ The original descriptions in the original data set were changed according the fo
 'fBodyBodyGyroJerkMag-std()'	    to 'frequency_body_angular_velocity_jerk_signal_magnitude_stdv'             
 'fBodyBodyGyroJerkMag-meanFreq()'	to 'frequency_body_angular_velocity_jerk_signal_magnitude_mean_frequency'
 
-
-
 5. HOW THE SCRIPT WORKS :
 
 The script is fully commented in each line, in order to make clear the intention of each command. So, the evaluation of the script file itself should the self-explanatory.
@@ -147,3 +146,11 @@ The main steps of data manipulation provided by run_analysis.R are :
 - Rearrange the rows names which were changed during the process.
 - Delete objects which will not be further used in order to release system memmory.
 - Create the directory 'tidy_data' and save 'tidy_data.txt' file.
+
+6. SOFTWARES AND VERSIONS :
+
+The current script was made using the following softwares and versions :
+
+- R for Mac OS X, Version 3.1.1 2014-07-11, R.app 1.65
+- RStudio for Mac OS X, Version 0.98.994
+- Mac OS X, Version 10.9.4
