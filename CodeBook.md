@@ -1,8 +1,12 @@
-Codebook for 'tidy.data.txt' data set
+Codebook for 'tidy_data.txt' data set
 
 DATE : August 23, 2014
 
-NOTE : The variables field width were not defined to numeric variables. It is not applicable, regarding that their value range is well known and specified.
+NOTE 1 : The variables field width were not defined to numeric variables. It is not applicable, regarding that their value range is well known and specified.
+
+NOTE 2 : Actually, all the variables described below are mean values for the related 'Subject' and 'Activity' described. It means that, when you read 'time_body_linear_acceleration_mean_X_axis = (time domain) body linear acceleration mean in X axis', you should be aware that the numeric value is a 'mean of means'. In the same manner, 'time_body_linear_acceleration_stdv_X_axis = (time domain) body linear acceleration standard deviation in X axis', please consider that the numeric values is a 'mean of standard deviations'.
+
+VARIABLES
 
 Subject
         Type        :   integer
